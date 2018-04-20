@@ -1,3 +1,15 @@
+• This is a client panel cash management application using Angular on the front-end and Google’s firebase/firestore-beta
+  in the back-end with npm and node modules.
+  
+  
+• Users can login, register, perform all CRUD operations inside the application. Auth Guard is provided for routes.
+
+
+• Environment: Angular, Google Firebase, Visual Studio Code, Git, HTML, CSS, Typescript.
+
+
+
+
 # AngularClientPanelCashManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
